@@ -11,6 +11,7 @@
       margin: auto;
     }
     .header{
+      position: fixed;
       color: white;
       font-size: 2em;
       text-align: left;
@@ -49,9 +50,9 @@
   font-size: 1.2em;
 }
 .about{
-  
+  position: fixed;
     color: white;
-    font-size: 2em;
+    font-size: 1.5em;
     text-align: center;
     padding: 1em; 
 }
