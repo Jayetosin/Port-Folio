@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Port-Folio/static/css/main.8b8528cb.css",
+    "main.js": "/Port-Folio/static/js/main.b3fa44f4.js",
+    "static/media/image 1.jpeg": "/Port-Folio/static/media/image 1.c563c76ff44791cd076f.jpeg",
+    "index.html": "/Port-Folio/index.html",
+    "main.8b8528cb.css.map": "/Port-Folio/static/css/main.8b8528cb.css.map",
+    "main.b3fa44f4.js.map": "/Port-Folio/static/js/main.b3fa44f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b8528cb.css",
+    "static/js/main.b3fa44f4.js"
+  ]
+}
