@@ -41,3 +41,20 @@
     ]
   }
 }
+{
+  "type": "system",
+  "errno": "ENOTFOUND",
+  "code": "ENOTFOUND",
+  "erroredSysCall": "getaddrinfo",
+  "url": "https://api.netlify.com/api/v1/sites/e93eda96-d92d-4d65-9a4d-463591fbe9d8/deploys",
+  "data": {
+   "method": "POST",
+    "headers": {
+      "Content-Type": "application/json",
+      "User-agent": "netlify-cli/15.9.0 win32-x64 node-v18.16.1",
+      "accept": "application/json",
+      "Authorization": "Bearer KZs1SFYeqHACudD3fNxziNksr1Nb89o1PybPS5yBuN8"
+    },
+    "body": "{\"draft\":true}"
+  }
+}
